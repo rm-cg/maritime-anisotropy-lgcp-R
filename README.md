@@ -18,8 +18,6 @@ This repository strictly hosts the code and datasets required for mathematical r
 *   `DATASETS/`: Contains historical spatial point pattern CSV files.
     *   **Proxy Data:** Global Fishing Watch (GFW) vessel detection datasets (Habagat and Amihan seasonal splits).
     *   **Local Data:** Philippine Space Agency (PhilSA) DALOI radar matrices (Pending Integration / Plug-and-Play architecture).
-*   `readme_public-*.md`: Official data dictionaries and metadata files associated with the GFW proxy datasets, maintaining data versioning transparency.
-
 ---
 
 ## ⚙️ Technical Stack & Environment
